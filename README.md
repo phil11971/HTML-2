@@ -12,5 +12,5 @@
 https://docs.google.com/document/d/1F5ab7FUacU2N_hVuFZY6ecEfhXD8Bkul75bX39_aIZ4/edit?usp=sharing
 ## Подсказки
 Помните про аббревиатуры.
-Не забывайте про <header> и <footer>.
+Не забывайте про header и footer.
 
